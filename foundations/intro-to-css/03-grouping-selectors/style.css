@@ -1,0 +1,14 @@
+.btn--accept,
+.btn--reject {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.btn--accept {
+  background-color: black;
+  color: white;
+}
+
+.btn--reject {
+  background-color: yellow;
+}
